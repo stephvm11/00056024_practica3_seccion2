@@ -20,7 +20,7 @@ body {
     cursor: pointer;
 }
 .shopping-cart{
-    animation: fadeIn 2s ease-in;
+    animation: fadeIn 6s ease-in;
 }
 @keyframes fadeIn {
     from {
